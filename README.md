@@ -1,5 +1,5 @@
 # 💫 About Me:
-skyrealm
+full stack
 
 
 ## 🌐 Socials:
