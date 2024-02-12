@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, my name is oglis22. I'm a developer with a passion for hacking. I initially began my <br>coding journey with simple Minecraft plugins, and now I'm eager to expand my <br>knowledge in the realm of cybersecurity.<br><br>My current focus involves creating tools for penetration testing and exploiting <br>vulnerabilities. I find the challenges in this field both intriguing and rewarding, and I'm <br>excited to continue honing my skills to contribute to the world of cybersecurity.
 
-Portfolio: <a href="https://oglis22.github.io/">Portfolio</a>
+<a href="https://oglis22.github.io/">Portfolio</a>
 
 
 ## 🌐 Socials:
